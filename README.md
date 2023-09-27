@@ -1,4 +1,4 @@
-# sql-performance-explained
+# Codealong to sql-performance-explained
 
 This is a little code-along exercise as I read through <https://use-the-index-luke.com/>.
 
